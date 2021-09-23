@@ -9,6 +9,6 @@ EMAIL;type=INTERNET;type=WORK;type=pref:Manolya@CollectivIntelligence.com
 TEL;type=WORK;type=VOICE:+447802711635
 item1.ADR;type=WORK;type=pref:;;The Royal Institution 21 Albemarle St, London W1S 4BS;;;W1S 4BS;United Kingdom
 item1.X-ABADR:sg
-item2.URL;type=pref:www.collectivintelligence.com
+item2.URL;type=pref:collectivintelligence.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
